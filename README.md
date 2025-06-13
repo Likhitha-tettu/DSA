@@ -1,1 +1,2 @@
-Backend implementation using Django using Django REST Framework
+Backend implementation using Django REST Framework
+Please refer to the code in Master branch
